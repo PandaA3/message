@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 header("content-type:text/html;charset=utf8");
 
@@ -19,5 +19,5 @@ if ($arr) {
 }else{
     echo "<script>alert('添加失败');location.href='show.php'</script>";
 }
-
+//git修改
 ?>
